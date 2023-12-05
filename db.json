@@ -13,7 +13,7 @@
     "currencyExchangeCode":"https://github.com/SinfulServant/TestTaskExchangeRate"
      },
   "TESTS": {
-    "FirstTest": {
+    "First_Test": {
         "First": {
             "Options": ["Чому все так сталося?","Правильна відповідь!","Чому все так сталося?","Чому все так сталося?"],
             "Correct-answer": 2
