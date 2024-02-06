@@ -1,1 +1,22 @@
-{"URLS":{"instagram":"https://instagram.com/mrsaxobeat55?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr","telegram":"https://t.me/Sinful_Servant","gitlab":"https://gitlab.com/SinfulSlave","linkedin":"https://www.linkedin.com/in/ivan-yermolenko-6a8a77279/","github":"https://github.com/SinfulServant","cheng":"https://cheng-island.com/","chengCode":"https://gitlab.com/SinfulSlave/cheng-frontend","resume":"https://sinfulservant.github.io/CV-app/","resumeCode":"https://github.com/SinfulServant/CV-app","currencyExchange":"https://sinfulservant.github.io/TestTaskExchangeRate/","currencyExchangeCode":"https://github.com/SinfulServant/TestTaskExchangeRate"},"TESTS":{"JS_Basic":"https://gist.githubusercontent.com/SinfulServant/93546de04a12060a7acf3565c629f70c/raw/8c0accbb581726ff2d6ed4778a8d7b5267c54cae/JS%2520Basic","CSS_Basic":"https://gist.githubusercontent.com/SinfulServant/c160a2c2218885d9b90667ad28d73141/raw/363033789cffabfc179702d6af8b6ef0e3715fae/CSS%2520Basic","HTML_Basic":"https://gist.githubusercontent.com/SinfulServant/521f082919c1968900632d736a500110/raw/408f644334dfaeb14428f57f7fd36521a0aecee1/HTML%2520Basic","Angular_Basic":"https://gist.githubusercontent.com/SinfulServant/f0ceb874bcab73f3c4520e95771016e7/raw/7ef60621fe4f93f568f35ddf28548bd845c3955a/Angular%2520Basic","Vue_Basic":"https://gist.githubusercontent.com/SinfulServant/b699aea77899cb3e7113e340558f12ab/raw/7a567952ba474f11af128039886dfe8f98f22a8a/Vue%2520Basic","React_Basic":"https://gist.githubusercontent.com/SinfulServant/1bbd22d05756a024e3b943c0f45edb50/raw/0e091a2680b53f7dfff08f3be9bbdc370305d96c/React%2520Basic"}}
+{
+    "URLS":{
+        "instagram":"https://instagram.com/mrsaxobeat55?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr",
+        "telegram":"https://t.me/Sinful_Servant",
+        "gitlab":"https://gitlab.com/SinfulSlave",
+        "linkedin":"https://www.linkedin.com/in/ivan-yermolenko-6a8a77279/",
+        "github":"https://github.com/SinfulServant",
+        "cheng":"https://cheng-island.com/",
+        "chengCode":"https://gitlab.com/SinfulSlave/cheng-frontend",
+        "resume":"https://sinfulservant.github.io/CV-app/",
+        "resumeCode":"https://github.com/SinfulServant/CV-app",
+        "currencyExchange":"https://sinfulservant.github.io/TestTaskExchangeRate/",
+        "currencyExchangeCode":"https://github.com/SinfulServant/TestTaskExchangeRate"
+    },
+    "TESTS":{
+        "JS_Basic":"https://gist.githubusercontent.com/SinfulServant/93546de04a12060a7acf3565c629f70c/raw/8c0accbb581726ff2d6ed4778a8d7b5267c54cae/JS%2520Basic",
+        "CSS_Basic":"https://gist.githubusercontent.com/SinfulServant/c160a2c2218885d9b90667ad28d73141/raw/363033789cffabfc179702d6af8b6ef0e3715fae/CSS%2520Basic",
+        "HTML_Basic":"https://gist.githubusercontent.com/SinfulServant/521f082919c1968900632d736a500110/raw/408f644334dfaeb14428f57f7fd36521a0aecee1/HTML%2520Basic",
+        "Angular_Basic":"https://gist.githubusercontent.com/SinfulServant/f0ceb874bcab73f3c4520e95771016e7/raw/7ef60621fe4f93f568f35ddf28548bd845c3955a/Angular%2520Basic",
+        "Vue_Basic":"https://gist.githubusercontent.com/SinfulServant/b699aea77899cb3e7113e340558f12ab/raw/7a567952ba474f11af128039886dfe8f98f22a8a/Vue%2520Basic",
+        "React_Basic":"https://gist.githubusercontent.com/SinfulServant/1bbd22d05756a024e3b943c0f45edb50/raw/0e091a2680b53f7dfff08f3be9bbdc370305d96c/React%2520Basic"
+    }
