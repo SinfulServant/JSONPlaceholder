@@ -10,7 +10,8 @@
         "resume":"https://sinfulservant.github.io/CV-app/",
         "resumeCode":"https://github.com/SinfulServant/CV-app",
         "currencyExchange":"https://sinfulservant.github.io/TestTaskExchangeRate/",
-        "currencyExchangeCode":"https://github.com/SinfulServant/TestTaskExchangeRate"
+        "currencyExchangeCode":"https://github.com/SinfulServant/TestTaskExchangeRate",
+        "resourcesForExamenator": "https://gist.githubusercontent.com/SinfulServant/8d9049cb7bf14cb885280b1d43eefe3c/raw/51d678dfeb391e2897109a59b6f7511c5732e445/resourcesForExamenator"
     },
     "TESTS":{
         "JS_Basic":"https://gist.githubusercontent.com/SinfulServant/93546de04a12060a7acf3565c629f70c/raw/8c0accbb581726ff2d6ed4778a8d7b5267c54cae/JS%2520Basic",
